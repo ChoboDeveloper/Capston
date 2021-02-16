@@ -20,9 +20,9 @@ link
 ### Display
 
 
+![image01](https://user-images.githubusercontent.com/75229881/108017804-262fd000-7059-11eb-961c-4aadb0669e2f.png)
 
-![image01](C:\Users\cbdev\Documents\PycharmProjects\Capston\asset\image01.png)
+![Inkedimage02_LI](https://user-images.githubusercontent.com/75229881/108017806-2760fd00-7059-11eb-97b9-5580058863a1.jpg)
 
-![Inkedimage02_LI](C:\Users\cbdev\Documents\PycharmProjects\Capston\asset\Inkedimage02_LI.jpg)
 
 ---
