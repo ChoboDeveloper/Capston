@@ -12,7 +12,7 @@ intelligent Camera using keras-yolo3, ip webcam, kakaotalk API
 
 ### Training
 
-link
+[link](https://github.com/ChoboDeveloper/Capston/blob/master/asset/yong-mine.ipynb)
 
 ---
 <br>
