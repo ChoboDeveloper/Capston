@@ -23,7 +23,7 @@ link
 
 ![image01](https://user-images.githubusercontent.com/75229881/108017804-262fd000-7059-11eb-961c-4aadb0669e2f.png)
 
-![Inkedimage02_LI](https://user-images.githubusercontent.com/75229881/108017806-2760fd00-7059-11eb-97b9-5580058863a1.jpg)
+![Inkedimage02_LI](https://user-images.githubusercontent.com/75229881/108017900-7c9d0e80-7059-11eb-9cde-0afa67576b04.jpg)
 
 
 ---
